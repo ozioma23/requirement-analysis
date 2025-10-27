@@ -73,8 +73,22 @@ Draw interactions between actors and use cases.
 Benefits of Use Case Diagrams:
 
 Provide a clear visual representation of system functionalities.
-Help in identifying and organizing system requirements.<img width="419" height="459" alt="booking  drawio" src="https://github.com/user-attachments/assets/7e02125c-e921-4d8f-b200-7e6895dde535" />
+Help in identifying and organizing system requirements.
 
 Facilitate communication among stakeholders and development team.
+<img width="419" height="459" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/c527c45f-f722-443a-b8f5-34b3a31c603d" />
 
 
+What is Acceptance Criteria?
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+How to Define Acceptance Criteria:
+
+Be specific and measurable.
+Include functional and non-functional aspects.
+Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+Benefits of Acceptance Criteria:
+
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
